@@ -35,3 +35,5 @@ Présenter les différentes étapes d'une transaction et expliquer les élément
 ## 7. Auteur
 
 Nom et prénom : Maroua Maarouf ou je vais mettre ce texte
+
+Ce travail a été réalisé dans le cadre du TP3 GitHub et projets blockchain.
