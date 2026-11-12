@@ -71,3 +71,5 @@ Cette analyse permet de comprendre la structure d'une transaction Bitcoin sur Te
 - GitHub Desktop
 - Mempool.space
 - Assistant d'intelligence artificielle pour l'accompagnement et les explications.
+Liens de vérification des transactions:
+  Transaction 1 : 97ad267395a4d905d7af521c8b2edcf3da04504b0b03c5b145f9933a8bed585c
